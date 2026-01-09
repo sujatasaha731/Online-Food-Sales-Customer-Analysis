@@ -37,7 +37,7 @@ The dashboard provides insights into revenue trends, customer preferences, resta
 
 ## 📂 Project Files
 - Online Food Sales & Customer Analysis.pbix – Power BI dashboard file
-- dashboard.png – Dashboard preview image
+- online food sales and customer analysis Dashboard.png – Dashboard preview image
 - README.md – Project documentation
 
   ## ✅ Conclusion
